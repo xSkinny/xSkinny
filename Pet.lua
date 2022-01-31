@@ -16,7 +16,7 @@ local R15 = Humanoid.RigType == Enum.HumanoidRigType.R15 and true or false
 
 if AUTOCHOOSE then
     for _, hat in pairs(Character:GetChildren()) do
-        if hat:IsA("Accessory") and (string.find(hat.Name:lower(), "skateboard") or hat.Name == "MeshPartAccessory") then
+        if hat:IsA("Accessory") and (string.find(hat.Name:lower(), "skateboard") or hat.Name == "Red SS") then
             SKATEBOARD_HAT = hat.Name
         end
     end
