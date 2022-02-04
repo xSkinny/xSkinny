@@ -1,4 +1,4 @@
-getgenv().name = "丂 ズ ﾉ 刀 刀 ﾘ#6666"
+getgenv().name = "丂 ズ ﾉ 刀 刀"
 
 
 local Plr = game.Players.LocalPlayer
