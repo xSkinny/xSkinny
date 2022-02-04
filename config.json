@@ -1,6 +1,6 @@
 {
  	"bot_name": "Bot Notifer",
-	"bot_prefix": ".",
+	"bot_prefix": "/",
 	"bot_token": "https://discord.com/api/webhooks/939286266179121161/dr897uu-pOZXt0r-lAd-S_iPwW5qqtJiZWxZuRPKt0FQtgXE-Plerk4WIvDfDb4GTXb8",
 	"channel_id_to_send_boblox_updates": 939286100986445855
 }
